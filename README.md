@@ -5,7 +5,7 @@
 
 - ✨ I speak **German, English and Serbo-Croatian**
 
-- 📫 Feel free to contact me at **mora@slime.garden**
+- 📫 Feel free to contact me at **mora.k.obradovic@gmail.com**
 
 <br>
 <h3 align="left">⚗️ My tools:</h3>
