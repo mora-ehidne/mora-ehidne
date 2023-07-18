@@ -1,7 +1,7 @@
 <h3 align="left">Hi! I'm Mora, a frontend developer with a visual artist's eye!</h3>
 <br>
 
-- 🌱 I’m currently learning **React and Next.js at Devhaus Leipzig**
+- 🌱 Recently graduated from **Devhaus Leipzig** where I learned **React and Next.js**
 
 - ✨ I speak **German, English and Serbo-Croatian**
 
