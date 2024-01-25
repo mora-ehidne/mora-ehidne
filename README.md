@@ -1,4 +1,4 @@
-<h3 align="left">Hi! I'm Mora, a frontend developer with a visual artist's eye!</h3>
+<h3 align="left">Hi! I'm Mora, a web dev with a visual artist's eye!</h3>
 <br>
 
 - 🌱 Recently graduated from **Devhaus Leipzig** where I learned **React and Next.js**
